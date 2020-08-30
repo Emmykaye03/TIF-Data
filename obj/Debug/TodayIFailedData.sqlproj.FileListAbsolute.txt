@@ -1,0 +1,10 @@
+C:\Users\Emmers\source\repos\TodayIFailedData\bin\Debug\TodayIFailedData.dacpac
+C:\Users\Emmers\source\repos\TodayIFailedData\bin\Debug\TodayIFailedData.dll
+C:\Users\Emmers\source\repos\TodayIFailedData\bin\Debug\TodayIFailedData.pdb
+C:\Users\Emmers\source\repos\TodayIFailedData\obj\Debug\TodayIFailedData.sqlprojAssemblyReference.cache
+C:\Users\Emmers\source\repos\TodayIFailedData\obj\Debug\Model.xml
+C:\Users\Emmers\source\repos\TodayIFailedData\obj\Debug\refactor.xml
+C:\Users\Emmers\source\repos\TodayIFailedData\obj\Debug\postdeploy.sql
+C:\Users\Emmers\source\repos\TodayIFailedData\obj\Debug\predeploy.sql
+C:\Users\Emmers\source\repos\TodayIFailedData\obj\Debug\TodayIFailedData.dll
+C:\Users\Emmers\source\repos\TodayIFailedData\obj\Debug\TodayIFailedData.pdb
